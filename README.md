@@ -31,14 +31,6 @@ The project consists of the following components:
 5. Set up the Windows Task Scheduler to run the currency update script at the desired interval.
 6. Access the PHP web page to view the displayed exchange rate data.
 
-## Getting Started
-
-1. Clone the repository:
-
-Of course! Here's a basic template for a README file that you can use for your data engineering project. Remember to customize the content to accurately reflect your project and its details.
-
-markdown
-Copy code
 # Currency Exchange Rate Data Engineering Project
 
 Welcome to my currency exchange rate data engineering project! This project focuses on retrieving real-time currency exchange rates from an external API, storing the data in a PostgreSQL database, and presenting it through a PHP web page. Additionally, an automated script updates the exchange rate data every 24 hours using the Windows Task Scheduler.
